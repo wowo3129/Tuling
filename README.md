@@ -8,6 +8,6 @@
 
 ![](/resources/res.gif)
 
-<br/>
+<br/>[微信自动回复机器人](https://github.com/sfyc23/EverydayWechat)
 
 
